@@ -13,6 +13,7 @@ Unlike other free web proxies, [4everproxy](https://www.okeyproxy.com/proxy/4eve
 Simply enter the website you want to visit and click "GO." No additional software is required, and it is compatible with any device, making it convenient and easy to use.
 
 ### How to Use 4everproxy Free Web Proxy
+![image](https://github.com/thepirateproxy/4everproxy-Free-Web-Proxy-A-Comprehensive-Overview/assets/169422974/66737d38-bab4-495a-8b39-5eee69dfc312)
 
 1. **Visit the Website:**  
    Navigate to 4everproxy.com
@@ -45,7 +46,7 @@ As a free service, ads are necessary to generate revenue. However, these ads can
 
 ### Alternative Solution: OkeyProxy
 
-OkeyProxy offers a more comprehensive proxy solution, catering to users in need of diverse proxy services. They provide a $3/1GB [proxy trial](https://www.okeyproxy.com/proxy/?link=b63b57), allowing you to experience and evaluate the service before committing to it.
+[OkeyProxy](https://www.okeyproxy.com/en?link=b63b57) offers a more comprehensive proxy solution, catering to users in need of diverse proxy services. They provide a $3/1GB [proxy trial](https://www.okeyproxy.com/proxy/?link=b63b57), allowing you to experience and evaluate the service before committing to it.
 
 ...
 
