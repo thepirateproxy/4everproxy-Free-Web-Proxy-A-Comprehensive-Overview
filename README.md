@@ -12,6 +12,8 @@ Unlike other free web proxies, [4everproxy](https://www.okeyproxy.com/proxy/4eve
 **3. User-Friendly:**  
 Simply enter the website you want to visit and click "GO." No additional software is required, and it is compatible with any device, making it convenient and easy to use.
 
+[**Gain 150K+ new US residential IP resources now!**](https://www.okeyproxy.com/en/residential-proxies)
+
 ## How to Use 4everproxy Free Web Proxy
 ![image](https://github.com/thepirateproxy/4everproxy-Free-Web-Proxy-A-Comprehensive-Overview/assets/169422974/66737d38-bab4-495a-8b39-5eee69dfc312)
 
@@ -46,11 +48,13 @@ As a free service, ads are necessary to generate revenue. However, these ads can
 
 ## 4everproxy Alternative Solution: OkeyProxy
 
-[**OkeyProxy**](https://www.okeyproxy.com/en?link=b63b57) offers a more comprehensive proxy solution, catering to users in need of diverse proxy services. They provide a $3/1GB [proxy trial](https://www.okeyproxy.com/proxy/?link=b63b57), allowing you to experience and evaluate the service before committing to it. 
+[**OkeyProxy**](https://www.okeyproxy.com/en?link=b63b57) offers a more comprehensive proxy solution, catering to users in need of diverse proxy services. As one of the top 5 SOCKS5 proxy services, it offers over 150 million real residential IPs from more than 200 countries. OkeyProxy provides superior speed and stability compared to free web proxies and supports various use cases such as web scraping, SEO research, e-commerce, and social media account management. 
 
-As one of the top 5 SOCKS5 proxy services, it offers over 150 million real residential IPs from more than 200 countries. OkeyProxy provides superior speed and stability compared to free web proxies and supports various use cases such as web scraping, SEO research, e-commerce, and social media account management. A 24-hour professional customer service team is available to assist with any issues.
+Discover new **Premium Plan**, offering an extra **150K premier US residential IPs**. Exceptional speed tailored for those who demand the best. [The best discount at just $0.9/GB!](https://www.okeyproxy.com/en/residential-proxies)
 
-![微信图片_20240111164601 (1)](https://github.com/thepirateproxy/4everproxy-Free-Web-Proxy-A-Comprehensive-Overview/assets/169422974/fcb35d69-90b7-48bf-8560-f5377d1802f1)
+![1](https://github.com/thepirateproxy/4everproxy-Free-Web-Proxy-A-Comprehensive-Overview/assets/169422974/3c2cf7be-bd39-4dd8-9909-f66e54322356)
+
+
 
 ...
 
